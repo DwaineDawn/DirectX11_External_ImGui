@@ -6,7 +6,7 @@
 
 namespace gui
 {
-	static inline ID3D11Device*		      device                 = nullptr;
+	static inline ID3D11Device*	      device                 = nullptr;
 	static inline ID3D11DeviceContext*    device_context         = nullptr;
 	static inline IDXGISwapChain*	      swap_chain             = nullptr;
 	static inline ID3D11RenderTargetView* render_target_view     = nullptr;
